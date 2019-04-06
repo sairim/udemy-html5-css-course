@@ -10,3 +10,27 @@
 * Simple-to-use web design guidelines and tips to make your website stand out from the crowd
 
 #### It's a great course and I highly recommend it!
+
+### Below are some screenshots from the site you build throughout the course.
+
+![](./screens/omnifood1.png)
+
+
+
+![](./screens/omnifood2.png)
+
+
+
+![](./screens/omnifood3.png)
+
+
+
+![](./screens/omnifood4.png)
+
+
+
+![](./screens/omnifood5.png)
+
+
+
+![](./screens/omnifood6.png)
